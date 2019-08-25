@@ -1,0 +1,23 @@
+IDE: Intellij
+Video: Youtube + Dropbox
+Code : GitHub  + Dropbox
+
+JavaRush
+
+sout 		-> System.out.println()
+fori 		-> for(int i = 0; i < ; i++) {
+			   }
+ctrl + c (empty)	-> copy entire line
+ctrl + x (empty)	-> cut entire line
+ctrl + d			-> clone (duplicate) line 
+
+alt + enter			-> see solutions for compilation error
+ctrl + int			-> implement methods
+
+getters/setters/equals/hash code/ constructors /toString..
+1. (right mouse click) + Generate
+2. alt + insert
+
+ctrl + o	-> override method
+
+https://resources.jetbrains.com/storage/products/intellij-idea/docs/IntelliJIDEA_ReferenceCard.pdf
